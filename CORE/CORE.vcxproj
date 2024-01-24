@@ -134,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="rankings.txt" />
+    <Text Include="test.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h" />
